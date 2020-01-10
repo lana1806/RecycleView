@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Recycle View</string>
+    <string name="hmj_name">Himpunan Mahasiswa ITT </string>
+    <string name="desc">Deskripsi</string>
+    <string-array name="data_nama">
+        <item>Haruto Kaguragi</item>
+        <item>Yuri Asuma</item>
+        <item>Mikoto Amamiya</item>
+        <item>J</item>
+        <item>Mistel</item>
+        <item>Slash</item>
+        <item>Levia</item>
+        <item>Pai Winchester</item>
+        <item>Violet</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item>Class : Striker </item>
+
+        <item>Class : Ranger</item>
+
+        <item>Class : Caster</item>
+
+        <item>Class : Fighter</item>
+
+        <item>Class : Lancer</item>
+
+        <item>Class : Hunter </item>
+
+        <item>Class : Witch</item>
+        <item>Class : Ice Blade</item>
+        <item>Class : Valkyrie</item>
+    </string-array>
+    <string-array name="photo">
+        <item>http://wiki.closershq.com/images/d/dc/SS5-P.PNG</item>
+        <item>http://wiki.closershq.com/images/4/41/RS5-P.PNG</item>
+        <item>http://wiki.closershq.com/images/6/61/CS5-P.PNG</item>
+        <item>http://wiki.closershq.com/images/4/46/FS5-P.PNG</item>
+        <item>http://wiki.closershq.com/images/b/be/LS5-P.PNG</item>
+        <item>http://wiki.closershq.com/images/8/89/HS5-P.PNG</item>
+        <item>http://wiki.closershq.com/images/9/90/WS5-P.PNG</item>
+        <item>http://wiki.closershq.com/images/d/d9/MS5-P.PNG</item>
+        <item>http://wiki.closershq.com/images/e/e9/VS5-P.PNG</item>
+    </string-array>
+</resources>
